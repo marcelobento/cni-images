@@ -1,2 +1,1 @@
-# cni-images
-CNIImages
+# CNI Images
